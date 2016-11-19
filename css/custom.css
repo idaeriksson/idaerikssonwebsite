@@ -1,0 +1,15 @@
+.intro {
+  background-color: #fff;
+  color: #333;
+}
+
+.ingress {
+  text-align: center;
+  color: #333;
+  padding: 40px 15px;
+  font-size: 20px;
+}
+
+.col-md-4 {
+  padding: 0% 5%;
+}
