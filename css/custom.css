@@ -1,15 +1,24 @@
 .intro {
   background-color: #fff;
-  color: #333;
 }
 
 .ingress {
   text-align: center;
   color: #333;
-  padding: 40px 15px;
+  padding: 5% 5%;
   font-size: 20px;
 }
 
-.col-md-4 {
-  padding: 0% 5%;
+.intro-row {
+  margin: 0% 5% 5% 5%;
+  text-align: center;
+}
+
+.intro-column {
+  padding: 0% 3%;
+}
+
+.icon-header {
+  font-size: 50pt;
+  color: #357ED3;
 }
